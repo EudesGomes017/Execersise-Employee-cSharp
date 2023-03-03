@@ -1,0 +1,15 @@
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\bin\Debug\net6.0\Exercisa.List.cSharp.exe
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\bin\Debug\net6.0\Exercisa.List.cSharp.deps.json
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\bin\Debug\net6.0\Exercisa.List.cSharp.runtimeconfig.json
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\bin\Debug\net6.0\Exercisa.List.cSharp.dll
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\bin\Debug\net6.0\Exercisa.List.cSharp.pdb
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.csproj.AssemblyReference.cache
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.AssemblyInfoInputs.cache
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.AssemblyInfo.cs
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.csproj.CoreCompileInputs.cache
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.dll
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\refint\Exercisa.List.cSharp.dll
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.pdb
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\Exercisa.List.cSharp.genruntimeconfig.cache
+C:\Users\steel\Exericse-List-C#\Exercisa.List.cSharp\obj\Debug\net6.0\ref\Exercisa.List.cSharp.dll
