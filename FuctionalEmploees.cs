@@ -25,17 +25,19 @@ namespace Exercisa.List.cSharp
             Console.WriteLine(" How many employees will be registered?  "); //Quantos funcionários serão cadastrados?
             int n = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i <= n; i++)
             {
                 Console.WriteLine(" employee " + i + " : ");
 
                 Console.WriteLine("Id ");
                 int id = Convert.ToInt32(Console.ReadLine());
 
-                if (id == n)
+
+                if (i == id)
                 {
                     Console.WriteLine("id already taken. Try again: ");
                     Environment.Exit(id); //encerrar o console
+
                 }
 
                 Console.WriteLine("Name ");
@@ -70,8 +72,8 @@ namespace Exercisa.List.cSharp
             Console.WriteLine("Litar Empregados");
             foreach (Employee emp in list)
             {
-                
-               
+
+
             }
 
         }
